@@ -6,10 +6,10 @@ Analyze the Winning Numbers of Mega Million, finding meaningful insights in data
 ## Data Source
 -	<a href = “https://data.gov/”> Data.gov </a>
 -	Frequently Updated Link to dataset: <a href = “https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002” >Data.gov</a>
--	Data Set that I used: <a href = “https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002”  target = “__blank”> Data.gov </a>
+-	Data Set that I used: <a href = “https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002” target = “__blank”> Data.gov/MegaMillion Winning Numbers</a>
 
 ## Dashboard
--	<a href = “https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/Screenshot%202025-01-10%20160520.png”  target = “__blank” > Data.gov </a>
+-	<a href = https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/Screenshot%202025-01-10%20160520.png> Data.gov </a>
 
 ![Screenshot 2025-01-10 160520](https://github.com/user-attachments/assets/49cd98d0-44a9-438e-853c-e66a44012b5b)
 
