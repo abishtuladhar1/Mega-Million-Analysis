@@ -6,14 +6,14 @@ Analyze the Winning Numbers of Mega Million, finding meaningful insights in data
 ## Data Source
 -	<a href = https://data.gov/> Data.gov </a>
 -	Frequently Updated Link to dataset: <a href = https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002>Data.gov</a>
--	Data Set that I used: <a href = [https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002](https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/Lottery_Mega_Millions_Winning_Numbers__Beginning_2002.csv)> Data.gov/MegaMillion Winning Numbers</a>
+-	Data Set that I used: <a href = https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/Lottery_Mega_Millions_Winning_Numbers__Beginning_2002.csv> Data.gov/MegaMillion Winning Numbers</a>
 
 ## Dashboard
 -	<a href = https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/Screenshot%202025-01-10%20160520.png> Data.gov </a>
 
 ![Screenshot 2025-01-10 160520](https://github.com/user-attachments/assets/49cd98d0-44a9-438e-853c-e66a44012b5b)
 
-Link to my Excel File: <a href = https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/Screenshot%202025-01-10%20160520.png](https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/MegaMillion%20Winning%20Numbers%20Analysis%20Project.xlsx)> Project File in Excel</a>
+Link to my Excel File: <a href = https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/MegaMillion%20Winning%20Numbers%20Analysis%20Project.xlsx> Project File in Excel</a>
 
 ## Process
 -	Imported Raw data from the data source
