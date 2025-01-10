@@ -4,7 +4,7 @@
 Analyze the Winning Numbers of Mega Million, finding meaningful insights in data & visualizing it for complex information easier to understand. This Excel Visualization Dashboard allows us to identify patterns, trends, and outliers that might be difficult to see in raw data.
 
 ## Data Source
--	<a href = “https://data.gov/”> Data.gov</a>
+-	<a href = “https://data.gov/”> Data.gov </a>
 -	Frequently Updated Link to dataset: <a href = “https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002” >Data.gov</a>
 -	Data Set that I used: <a href = “https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002”  target = “__blank”> Data.gov </a>
 
