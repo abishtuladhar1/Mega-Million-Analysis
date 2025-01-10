@@ -13,6 +13,8 @@ Analyze the Winning Numbers of Mega Million, finding meaningful insights in data
 
 ![Screenshot 2025-01-10 160520](https://github.com/user-attachments/assets/49cd98d0-44a9-438e-853c-e66a44012b5b)
 
+Link to my Excel File: <a href = https://github.com/abishtuladhar1/Mega-Million-Analysis/blob/main/Screenshot%202025-01-10%20160520.png> Data.gov </a>
+
 ## Process
 -	Imported Raw data from the data source
 -	Transformed and cleaned data “used Text to column Excel Function” to separate conjoined data
