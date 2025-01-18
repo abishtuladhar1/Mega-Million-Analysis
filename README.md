@@ -34,4 +34,4 @@ Link to my Excel File: <a href = https://github.com/abishtuladhar1/Mega-Million-
 The same goes for Mega Ball numbers, higher numbers are less likely to be in the winning sequence.
 
 ## Remarks:
-A lot of my friends and my sister believe in their odds against gambling and lotteries. Although I’m personally not a supporter of Gambling and Lotteries because their odds are stacked up big time against a player, but I’m doing this project anyway to showcase my data analysis skills to my peers and my sister.
+Many of my friends and my sister believe in their odds against gambling and lotteries. Although I’m personally not a supporter of Gambling and lottery because their odds are stacked up big time against a player Nevertheless, I’m doing this project anyway to showcase my data analysis skills to my peers and my sister.
